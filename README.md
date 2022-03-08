@@ -8,4 +8,4 @@ This project solved multiple problems while maxmimzing user-friendliness. By add
 In this project, I learned the most efficient way to consolidate redundant code while improving browser performance and maintaining prior functioning of the site. For example, the search engine optimization link in the header of the page did not initially navigate to the proper part of the webpage. I fixed this by adding an id tag that made the link function properly. 
 
 Website URL: https://malikhenry1.github.io/MAH-Code_Refractor_HW1/
-GitHub URL: 
+GitHub URL: https://github.com/MalikHenry1/MAH-Code_Refractor_HW1
