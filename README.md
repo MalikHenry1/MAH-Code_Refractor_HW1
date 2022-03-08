@@ -1,4 +1,4 @@
-# MAH-Code_Refractor_HW1
+# MAH-Code_Refactor_HW1
 This is a repository for my (Malik Henry) first Homework Assignment on Refactoring Code. 
 
 My motivation in creating this project was to modify existing code for the Horiseon website in such a way that would optimize search engine preference. Websites with cleaner, better organized code tend to have prefernce in the search engine algorithm, so the goal was to update the HTML file and style sheet to meet industry standards thus optimizing search engine performance. 
